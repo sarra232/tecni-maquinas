@@ -1,0 +1,23 @@
+
+<div class="container">
+    <div>
+        <h1>Partes</h1>
+    </div>
+    <div class="row">
+        <div class="col-md-4 mx-auto my-5" *ngFor="let part of parts">
+            <div class="card"  style="width: 18rem;">
+                <img [src]="part.source" class="card-img-top" [alt]="part.name">
+                <div class="card-body">
+                    <h5 class="card-title">{{ part.name }}</h5>
+                    <p class="card-text">{{ part.shortDescription }}</p>
+                </div>
+                <ul class="list-group list-group-flush">
+                    <li class="list-group-item">Fabricante: {{ part.trademark }}</li>
+                  </ul>
+                <div class="card-body">
+                    <a [routerLink]="['/product']" [queryParams]="part" class="card-link">Veer más..</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

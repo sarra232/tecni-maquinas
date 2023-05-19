@@ -1,0 +1,18 @@
+
+<div class="container">
+    <div class="" style="width: auto">
+        <h1>{{product.name}}</h1>
+    </div>
+    <div class="mx-auto">
+            <div class="card"  style="width: auto">
+                <img [src]="product.source" class="card-img-top" [alt]="product.name">
+                <div class="card-body">
+                    <h4 class="card-title">{{ product.name }}</h4>
+                    <p class="card-text">{{ product.shortDescription }}</p>
+                </div>
+                <ul class="list-group list-group-flush">
+                    <li class="list-group-item">Fabricante: {{ product.trademark }}</li>
+                  </ul>
+        </div>
+    </div>
+</div>

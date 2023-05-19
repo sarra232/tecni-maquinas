@@ -1,0 +1,23 @@
+
+<div class="container">
+    <div>
+        <h1>Máquinas</h1>
+    </div>
+    <div class="row">
+        <div class="col-md-4 mx-auto my-5" *ngFor="let supplie of supplies">
+            <div class="card"  style="width: 18rem;">
+                <img [src]="supplie.source" class="card-img-top" [alt]="supplie.name">
+                <div class="card-body">
+                    <h5 class="card-title">{{ supplie.name }}</h5>
+                    <p class="card-text">{{ supplie.shortDescription }}</p>
+                </div>
+                <ul class="list-group list-group-flush">
+                    <li class="list-group-item">Fabricante: {{ supplie.trademark }}</li>
+                  </ul>
+                <div class="card-body">
+                    <a [routerLink]="['/product']" [queryParams]="supplie" class="card-link">Veer más..</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

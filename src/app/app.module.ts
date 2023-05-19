@@ -1,5 +1,7 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
+import { HttpClientModule } from '@angular/common/http';
+import { FormsModule } from '@angular/forms';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
@@ -11,6 +13,11 @@ import { ProductsComponent } from './components/products/products.component';
 import { ContactComponent } from './components/contact/contact.component';
 import { AboutComponent } from './components/about/about.component';
 import { MapDirecctionComponent } from './components/map-direcction/map-direcction.component';
+import { MachinesComponent } from './components/machines/machines.component';
+import { SuppliesComponent } from './components/supplies/supplies.component';
+import { SparePartsComponent } from './components/spare-parts/spare-parts.component';
+import { BandsComponent } from './components/bands/bands.component';
+import { ProductDetailComponent } from './components/product-detail/product-detail.component';
 
 @NgModule({
   declarations: [
@@ -22,10 +29,17 @@ import { MapDirecctionComponent } from './components/map-direcction/map-direccti
     ProductsComponent,
     ContactComponent,
     AboutComponent,
-    MapDirecctionComponent
+    MapDirecctionComponent,
+    MachinesComponent,
+    SuppliesComponent,
+    SparePartsComponent,
+    BandsComponent,
+    ProductDetailComponent
   ],
   imports: [
     BrowserModule,
+    HttpClientModule,
+    FormsModule,
     AppRoutingModule
   ],
   providers: [],

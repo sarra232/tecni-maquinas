@@ -1,0 +1,145 @@
+[
+    {
+        "id": "1",
+        "source": "src/assets/images/Yao Han F900-A.jpeg",
+        "name": "F900 A",
+        "type": "machine",
+        "trademark": "",
+        "shortDescription": "Máquina de cierre de sacos de 1 aguja y 2 hilos de alta velocidad con sistema de lubricación automática.",
+        "description": "Velocidad máxima de costura 1900 rpm Alta velocidad obtenida con baja vibración.
+      Está diseñado para tener un rendimiento suave de largo alcance con baja vibración, y la última innovación en tecnología de costura de sacos sin problemas.
+      El sistema de lubricación automática protege las piezas móviles y garantiza la máxima productividad con bajo mantenimiento.
+      Fácilmente adaptable a su equipo existente, puede usarse con puntadas estándar de dos hilos o puntadas de 1 hilo y el ancho de puntada es ajustable de 2 a 5 puntos por pulgada (7 – 12 mm).
+      Para el cierre de sacos de todo tipo de papel, algodón, PP / PE, arpillera, yute, etc"
+    },
+    {
+        "id": "2",
+        "source": "src/assets/images/Yao Han F900-AT.jpeg",
+        "name": "F900 AT",
+        "type": "machine",
+        "trademark": "",
+        "shortDescription": "Máquina de cierre de sacos de 1 aguja y 2 hilos de alta velocidad con sistema de lubricación y corta hilo automático.",
+        "description": "Velocidad máxima de costura 1900 rpm Alta velocidad obtenida con baja vibración. Sistema de corte de hilo automático con cuchilla giratoria 180 grados.  Está diseñado para tener un rendimiento suave de largo alcance con baja vibración, y la última innovación en tecnología de costura de sacos sin problemas. El sistema de lubricación automática protege las piezas móviles y garantiza la máxima productividad con bajo mantenimiento.
+      Fácilmente adaptable a su equipo existente, puede usarse con puntadas estándar de dos hilos o puntadas de 1 hilo y el ancho de puntada es ajustable de 2 a 5 puntos por pulgada (7 – 12 mm).
+      Para el cierre de bolsas de todo tipo de papel, algodón, PP / PE, arpillera y yute."
+    },
+    {
+        "id": "3",
+        "source": "src/assets/images/NewLong NP-7A.jpeg",
+        "name": "Np7a",
+        "type": "machine",
+        "trademark": "",
+        "shortDescription": "Máquina de cierre de sacos portátil.",
+        "description": "Velocidad máxima de costura 1750 rpm.
+      Agarradera aislante de plástico para seguridad del operario.
+      Sistema de lubricación con bomba lubricadora.
+      Levas de acero.
+       Corte de hilo automático.
+       Mínimo mantenimiento.
+       Para el cierre de sacos de todo tipo de papel, algodón, PP / PE, arpillera, yute, etc"
+    },
+    {
+        "id": "4",
+        "source": "src/assets/images/Yao Han N980-A.jpeg",
+        "name": "N980-A",
+        "type": "machine",
+        "trademark": "",
+        "shortDescription": "Nuevo sistema largo. para cerrar bolsas de paja y bolsas de papel El cabezal de costura estacionario modelo N980A es un cabezal de costura industrial de doble hilo diseñado para cargas pesadas.",
+        "description": "Nuevo sistema largo. para cerrar bolsas de paja y bolsas de papel El cabezal de costura estacionario modelo N980A es un cabezal de costura industrial de doble hilo diseñado para cargas pesadas. Tiene una larga vida útil y alto rendimiento. máx. velocidad 2700 revoluciones/min, tipo de puntada 401, longitud de puntada 7-11,5 mm, ancho máximo de material cosido 8 mm, corte de hilo de cuchilla, lubricación cerrada con aceite completamente automática. Potencia 0,75kW. Peso 47 kg. Cose diversos tipos de materiales, como plástico (plástico, polipropileno tejido o tricotado), papel, materiales compuestos, yute, etc."
+    },
+    {
+        "id": "5",
+        "source": "src/assets/images/Yao Han N980-A.jpeg",
+        "name": "N980ac",
+        "type": "machine",
+        "trademark": "",
+        "shortDescription": "Nuevo sistema largo. para cerrar bolsas de paja y bolsas de papel Sistema automático de cierre de bolsas con cinta transportadora, modelo N980A es un cabezal de costura industrial de doble hilo diseñado para cargas pesadas.",
+        "description": "Nuevo sistema largo. para cerrar bolsas de paja y bolsas de papel Sistema automático de cierre de bolsas con cinta transportadora, modelo N980A es un cabezal de costura industrial de doble hilo diseñado para cargas pesadas. Tiene una larga vida útil y un alto rendimiento de 500-600 sacos/hora. máx. velocidad 2700 revoluciones/min, tipo de puntada 401, longitud de puntada 8 mm, ancho máximo de material cosido 8 mm, corte de hilo de cuchilla, lubricación cerrada por aceite completamente automática. Peso 230 kg. Cose varios tipos de materiales, como plástico (plástico, polipropileno tejido o tricotado), papel, materiales compuestos, yute, etc. Recomendamos el sistema de agujas SCHMETZ 124X2 200s."
+    },
+    {
+        "id": "6",
+        "source": "src/assets/images/Newlong Ds-2II.jpeg",
+        "name": "Ds2II",
+        "type": "machine",
+        "trademark": "",
+        "shortDescription": "Caracteristicas TecnicasNewlong Industrial (NLI) DS-2(II) & DS-2W
+      Maquina Cerradora de Sacos de Una y Dos Agujas para Sacos de Materiales como Papel Multi-paredes, Yute y Polipropileno (PP).","description": "Caracteristicas TecnicasNewlong Industrial (NLI) DS-2(II) & DS-2W
+      Maquina Cerradora de Sacos de Una y Dos Agujas para Sacos de Materiales como Papel Multi-paredes, Yute y Polipropileno (PP). Esta maquina esta equipada con un cortador de cadeneta Mecanico. Aguja: Organ 124×2 DRx2 #25 (Newlong B02001)
+      "
+    },
+    {
+        "id": "7",
+        "source": "src/assets/images/Newlong Ds-2II.jpeg",
+        "name": "Ds2II",
+        "type": "machine",
+        "trademark": "",
+        "shortDescription": "Caracteristicas TecnicasNewlong Industrial (NLI) DS-2(II) & DS-2W
+        Maquina Cerradora de Sacos de Una y Dos Agujas para Sacos de Materiales como Papel Multi-paredes, Yute y Polipropileno (PP).","description": "TecnicasNewlong Industrial (NLI) DS-2(II) & DS-2W
+        Maquina Cerradora de Sacos de Una y Dos Agujas para Sacos de Materiales como Papel Multi-paredes, Yute y Polipropileno (PP). Esta maquina esta equipada con un cortador de cadeneta Mecanico. Aguja: Organ 124×2 DRx2 #25 (Newlong B02001)"
+    },
+    {
+        "id": "8",
+        "source": "src/assets/images/NewLong DS9C.jpeg",
+        "name": "Ds9-c",
+        "type": "machine",
+        "trademark": "",
+        "shortDescription": "Este cabezal de cierre de bolsas es la máquina de cierre de bolsas con una sola aguja más rápida disponible (2700 rpm) para prácticamente todos los tipos de bolsas llenas.",
+        "description": "[2:35 PM, 1/22/2023] .Mauricio: Este cabezal de cierre de bolsas es la máquina de cierre de bolsas con una sola aguja más rápida disponible (2700 rpm) para prácticamente todos los tipos de bolsas llenas. Las piezas giratorias bien equilibradas aseguran muy poca vibración y promueven un sistema de cierre altamente confiable[2: 36 PM,
+        1/22/2023
+    ] .Mauricio: La máquina de coser bolsas llenas es ideal para aplicaciones de llenado y cierre de bolsas a alta velocidad donde las velocidades del transportador superan los 80 FPM. Un sistema de lubricación por baño de aceite completamente cerrado, único pero simple, prolonga en gran medida la vida útil de las piezas móviles, promueve la confiabilidad y la longevidad, y reduce los costos de mantenimiento. Al salir de la bolsa, un cortador estilo guillotina accionado por un cilindro de aire incorporado cortará automáticamente el hilo o la cinta crepé. Esta característica reduce los costos de materiales y promueve una apariencia final."
+},
+{
+    "id": "9",
+    "source": "src/assets/images/Yao Han F300.jpeg",
+    "name": "F300",
+    "type": "machine",
+    "trademark": "",
+    "shortDescription": "Short description of product 1",
+    "description": "Velocidad máxima de cosido 1600 – 1800 rpm.
+      Más efectivo para la revolución técnica
+      Material especial para mango de plástico de seguridad
+      Lubricador potente superior
+      Cortabordes automático
+      Menor ruido
+      Mantenimiento mínimo
+      Para el cierre de bolsas de todo tipo de papel, algodón, pp / pe, arpillera, yute, etc."
+},
+{
+    "id": "10",
+    "source": "src/assets/images/kingter.jpeg",
+    "name": "Kingter",
+    "type": "machine",
+    "trademark": "",
+    "shortDescription": "Short description of product 2",
+    "description": "Máquina de coser de sacos de una sola aguja y un solo hilo portátil de mano con sistema de lubricación automática.
+      La máquina de coser bolsas está diseñada para coser el borde de todo tipo de bolsas para productos agrícolas, piensos, fertilizantes, etc.
+      Características del modelo
+      Ventajas principales:
+      Sistema de lubricación automática
+      Compacidad que le permite coser bolsos en posición vertical.
+      Fácil de operar y mantener
+      Tiene un alto grado de confiabilidad
+      Peso 7,
+    5 kilogramos"
+},
+{
+    "id": "11",
+    "source": "src/assets/images/seneka.jpeg",
+    "name": "Seneka",
+    "type": "machine",
+    "trademark": "",
+    "shortDescription": "La COSEDORA manual para sacos marca SENEKA, puede cerrar muchos tipos de Bolsas y Sacos, en diferentes materiales como: Papel, Yute, PVC, Polipropileno, Yute y Fique.",
+    "description": "El motor tiene capacidad para 11.000 rpm. y la máquina viene con su Kit completo con agujas, lubricante, correa repuesto, hilo, herramienta.
+        Las Cerradoras de Bolsas con Costura cosen todo tipo de papel, textiles y Bolsas Plásticas: algodón, hessian, yute, PP, PE, PVC, telas y otros materiales.
+        Estos equipos son extremadamente fáciles de utilizar, incluso para personas inexpertas."
+},
+{
+    "id": "12",
+    "source": "https://example.com/product2.jpg",
+    "name": "Product 2",
+    "type": "machine",
+    "trademark": "",
+    "shortDescription": "Short description of product 2",
+    "description": "Longer description of product 2"
+}
+]
